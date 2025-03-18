@@ -43,3 +43,9 @@ Al ejecutar el programa automáticamente creará una carpeta en la raíz del pro
 Para iniciar a capturar debes presionar el botón iniciar captura e iniciara la toma cada 2 segundos (por defecto) luego para detener las capturas haz clic en el mismo botoón que se llamará Detener y luego clic en el botón rojo para cerrar el programa
 
 ![cargar App](/img/2.png)
+
+# Descargar el programa para x64
+
+Haz clic en el link de abajo o copialo y pegalo en tu navegador:
+
+https://github.com/edwinsacrecinos/WinAppCaptureS2/raw/refs/heads/main/CapturaAPP25.rar 

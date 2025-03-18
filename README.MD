@@ -2,7 +2,9 @@
 
 Está aplicación permite la captura de forma automática e instantánea cada tiempo asignado en código en el caso por defecto es 2 segundos.
 
-Este programa funciona con .NET 8 para compilarlo con mayor facilidad primero debes descargar su sdk y después recomiendo abrirlo en Visual Studio Code.
+Este programa funciona con .NET 8 para compilarlo con mayor facilidad primero debes descargar su sdk y después recomiendo abrirlo en Visual Studio Code. 
+
+Correr el proyecto: dotnet run 
 
 ## Consideraciones
 

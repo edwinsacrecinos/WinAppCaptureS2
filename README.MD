@@ -2,6 +2,8 @@
 
 Está aplicación permite la captura de forma automática e instantánea cada tiempo asignado en código en el caso por defecto es 2 segundos.
 
+Este programa funciona con .NET 8 para compilarlo con mayor facilidad primero debes descargar su sdk y después recomiendo abrirlo en Visual Studio Code.
+
 ## Consideraciones
 
 * El archivo RAR contiene la última versión compilada para sistema x64 de Windows y es portable

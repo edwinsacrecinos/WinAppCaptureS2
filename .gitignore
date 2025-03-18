@@ -1,0 +1,38 @@
+# Archivos y carpetas de compilación
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Archivos de configuración de usuario de Visual Studio
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dependencias de NuGet
+packages/
+project.lock.json
+project.assets.json
+*.nuget.cache
+*.nupkg
+
+# Archivos de publicación
+publish/
+*.Publish.xml
+
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Archivos comprimidos
+*.zip
+*.tar.gz
+
+# Configuración de VSCode
+.vscode/
